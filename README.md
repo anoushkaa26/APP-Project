@@ -1,7 +1,7 @@
 
 # APP-Project
 
-A Java-based application developed and maintained by [anoushkaa26](https://github.com/anoushkaa26).
+A Java-based application developed and maintained by [anoushkaa26](https://github.com/anoushkaa26) and [loksjain](https://github.com/Loksjain)
 
 ## Overview
 
